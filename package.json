@@ -1,0 +1,24 @@
+{
+  "name": "music-station",
+  "version": "0.0.1",
+  "description": "online taste music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abc3660170/music-station.git"
+  },
+  "keywords": [
+    "music",
+    "web",
+    "H5"
+  ],
+  "author": "tchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abc3660170/music-station/issues"
+  },
+  "homepage": "https://github.com/abc3660170/music-station#readme"
+}
